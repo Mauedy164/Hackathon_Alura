@@ -1,0 +1,27 @@
+RowNumber: Número de fila (del 1 al 10000).
+
+CustomerId: Identificador único para cada cliente.
+
+Surname: Apellido del cliente.
+
+CreditScore: Puntaje de crédito del cliente.
+
+Geography: País de residencia del cliente.
+
+Gender: Género (Masculino o Femenino).
+
+Age: Edad del cliente.
+
+Tenure: Cuántos años ha sido cliente del banco.
+
+Balance: Saldo bancario del cliente.
+
+NumOfProducts: Número de productos bancarios que el cliente utiliza.
+
+HasCrCard: (Generalmente 1 si tiene tarjeta de crédito, 0 si no).
+
+IsActiveMember: (Generalmente 1 si es un miembro activo, 0 si no).
+
+EstimatedSalary: Salario estimado.
+
+Exited: Esta es la variable objetivo. Indica si el cliente dejó el banco (1) o se quedó (0).
